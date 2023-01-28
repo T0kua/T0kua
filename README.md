@@ -15,3 +15,34 @@
 программист стажёр
 
 **контактная информация** :
+
+*telegram* : @son_ju
+
+---
+
+### ключевые знания :
+
+> опыт работы с такими языками программирования :
+
+*   python {
+
+* * Pygame
+* * Renpy
+* * Django
+* * Tkinter
+* * PyQt5Designer
+* * API {telebot ,vk_api}
+
+    }
+
+* C++
+
+* java
+
+* java_script {
+
+* * jquery
+
+    }
+
+* Pascal
