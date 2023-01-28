@@ -33,7 +33,7 @@
 * * PyQt5Designer
 * * API {telebot ,vk_api}
 
-    }
+}
 
 * C++
 
@@ -43,6 +43,6 @@
 
 * * jquery
 
-    }
+}
 
 * Pascal
