@@ -7,7 +7,8 @@ img {
 </style>
 
 # T0kua-
-<img src="image/face.png"/>
+<img src="image/face.png" style="display: block;float:right;margin: 7px 7px 7px 0px;"/>
+
 **Cергей Филиппов**
 
 > увлекаюсь:
