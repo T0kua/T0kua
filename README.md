@@ -1,20 +1,35 @@
-# T0kua-
+<style>
+img {
+    display: block;
+    float:right;
+    margin: 7px 7px 7px 0px;
+}
+</style>
 
+# T0kua-
+<img src="image/face.png"/>
 **Cергей Филиппов**
 
-![ошибка](image/face.png)  
 > увлекаюсь:
+> 
 > *  программированием микроконтроллеров на базе arduino,
 >
 > *  чтением книг
 >
 > * программированием 
 
+
+
 **желаемая должность** :  
 программист стажёр
 
+
 **контактная информация** :  
 *telegram* : @son_ju
+
+
+<br>
+
 
 ---
 
@@ -32,14 +47,14 @@
 
 > опыт работы с такими языками программирования :
 
-*   python {  
-* * Pygame
+* python {
+    * Pygame
     * Renpy
     * Django
     * Tkinter
     * PyQt5Designer
-    * API {telebot ,vk_api}  
-}  
+    * API {telebot ,vk_api} }
+
 * C++  
 * java  
 * java_script {  
