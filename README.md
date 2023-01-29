@@ -1,7 +1,7 @@
 # T0kua-
-<img src="image/face.png" style="float:right;"/>
-
 **Cергей Филиппов**
+
+<img src="image/face.png" style="float:right;"/>
 
 > увлекаюсь:
 > 
@@ -10,7 +10,6 @@
 > *  чтением книг
 >
 > * программированием 
-
 
 
 **желаемая должность** :  
