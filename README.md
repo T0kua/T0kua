@@ -1,5 +1,5 @@
 # T0kua-
-<img src="image/face.png" style="display: block;float:right;margin: 7px 7px 7px 0px;"/>
+<img src="image/face.png" style="float:right;"/>
 
 **Cергей Филиппов**
 
