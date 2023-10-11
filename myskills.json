@@ -1,0 +1,3 @@
+{'python': ['python3', 'Renpy', 'Pygame', 'Django', 'Tkinter', 'PyQt5Designer', 'telebot', 'vk_api', 'asyncio'],
+'WEB': [{'LAMP': ['PHP', 'MYSQL', 'APACHI2', 'Linux']}, 
+'CSS', 'HTML', {'JavaScript': 'Jquery'}], 'basic': ['C', 'Java']}
