@@ -43,21 +43,35 @@
     * Renpy
     * Django
     * Tkinter
+    * numpy
+    * pandas
+    * TKinter
     * PyQt5Designer
     * API {telebot ,vk_api} }
 
-* C++
+* C++ {
+   * Qt
+}
 * C  
 * java  {
    * swing  
 }  
+* ASMB{
+   * assembly x64
+   * assembly x32
+}
 * WEB (LAMP){
    * CSS  
-   * JS  
+   * JS {
+      *  JQuery
+   }
    * HTML  
    * PHP
    * APACHE2  
   }
+* SQL {
+   * MySQL
+}
 
 [~~myskills.json~~ ***ТЫК***](https://github.com/T0kua/T0kua/blob/main/myskills.json)
 ---
